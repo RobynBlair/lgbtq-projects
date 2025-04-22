@@ -1,4 +1,4 @@
-Example 1:
+Example 1 - Click button to escape
 
 https://parelaviolencia.pr.gov/colaboracion-municipal
 
@@ -9,7 +9,7 @@ function escaparweb(){
 	window.location.href='https://google.com/';
 }
 
-Example 2:
+Example 2 - Press ESC three times
 
 https://www.RobynsLair.com
 
@@ -89,3 +89,5 @@ https://www.RobynsLair.com
             opacity: 1;
         }
     </style>
+
+    <div id="quick-exit-fadeout"></div>
