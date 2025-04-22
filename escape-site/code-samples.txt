@@ -1,0 +1,91 @@
+Example 1:
+
+https://parelaviolencia.pr.gov/colaboracion-municipal
+
+<a onclick="escaparweb()">Escape</a>
+
+function escaparweb(){
+	$('body').html('');
+	window.location.href='https://google.com/';
+}
+
+Example 2:
+
+https://www.RobynsLair.com
+
+    <script>
+
+        (function() {
+            let escPressTimestamps = [];
+
+            document.addEventListener('keydown', function(event) {
+                if (event.key === 'Escape') {
+                    const now = Date.now();
+                    escPressTimestamps.push(now);
+
+                    // Only keep the last 3 timestamps
+                    if (escPressTimestamps.length > 3) {
+                        escPressTimestamps.shift();
+                    }
+
+                    // Check if 3 ESC presses happened within 5 seconds
+                    if (escPressTimestamps.length === 3) {
+                        if (escPressTimestamps[2] - escPressTimestamps[0] <= 5000) {
+                            try {
+                                // Show white overlay
+                                const overlay = document.getElementById('quick-exit-fadeout');
+                                overlay.classList.add('active');
+
+                                // Clear the entire page visually
+                                document.body.innerHTML = '';
+                                document.head.innerHTML = '';
+
+                                // Override background styling just in case
+                                document.documentElement.style.background = '#fff';
+                                document.body.style.background = '#fff';
+                                document.body.style.backgroundImage = 'none';
+
+                                // Clear local storage
+                                try {
+                                    sessionStorage.clear();
+                                    localStorage.clear();
+                                } catch (e) {}
+
+                                // Step 1: Push fake history entries to bury the page
+                                history.pushState(null, null, location.href);
+                                history.pushState(null, null, location.href);
+
+                                // Step 2: Disable back button forever on this page
+                                window.addEventListener('popstate', function () {
+                                    history.pushState(null, '', location.href);
+                                });
+                                
+                                // Redirect
+                                location.replace('https://www.google.com');
+
+                            } catch (e) {
+                                // As a fallback, wipe the screen
+                                document.body.innerHTML = '';
+                                document.head.innerHTML = '';
+                            }
+                        }
+                    }
+                }
+            });
+        })();
+
+    </script>
+
+    <style>
+        #quick-exit-fadeout {
+            position: fixed;
+            inset: 0;
+            background: white;
+            z-index: 9999;
+            opacity: 0;
+            transition: opacity 0.3s ease-out;
+        }
+        #quick-exit-fadeout.active {
+            opacity: 1;
+        }
+    </style>
