@@ -25,6 +25,9 @@
 - Skechers - https://www.skechers.com/
 - YRU - https://yrushoes.com/
 
+# Accessories
+- Zenni Optical - https://www.zennioptical.com/
+
 # Underwear
 
 - Cherries - https://getfitcherries.com/
