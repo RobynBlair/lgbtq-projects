@@ -1,6 +1,14 @@
 # LGBTQ Resources
 
+# US
+- Trans-Rated - https://trans-rated.com
+- Trans Lifeline - https://translifeline.org/hotline/
+- The Trevor Project - https://www.thetrevorproject.org/crisis-services/
+- Erin Reed - https://www.erininthemorning.com/
+
 # Arizona
+- Queer Center - https://www.queercenteraz.org/
+- Trans Spectrum of Arizona - https://www.tsaz.org/
 
 
 # Mexico - Tijuana
