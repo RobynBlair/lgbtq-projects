@@ -10,6 +10,8 @@
 - Queer Center - https://www.queercenteraz.org/
 - Trans Spectrum of Arizona - https://www.tsaz.org/
 - Phoenix boys of Leather - https://pbol.org/
+- Identity Hormones - https://try.identityhormones.com/phoenix-az
+- Your Health and Wellness - https://yourhealthaz.com/
 
 
 # Mexico - Tijuana
