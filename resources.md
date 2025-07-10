@@ -5,6 +5,7 @@
 - Trans Lifeline - https://translifeline.org/hotline/
 - The Trevor Project - https://www.thetrevorproject.org/crisis-services/
 - Erin Reed - https://www.erininthemorning.com/
+- LGBT Nationsl Help Center - https://lgbthotline.org/contact/
 
 # Arizona
 - Queer Center - https://www.queercenteraz.org/
