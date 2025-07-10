@@ -6,6 +6,8 @@
 - The Trevor Project - https://www.thetrevorproject.org/crisis-services/
 - Erin Reed - https://www.erininthemorning.com/
 - LGBT Nationsl Help Center - https://lgbthotline.org/contact/
+- Rainbow Railroad - https://www.rainbowrailroad.org/
+- Black and Pink - https://www.blackandpink.org/
 
 # Arizona
 - Queer Center - https://www.queercenteraz.org/
