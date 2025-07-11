@@ -38,6 +38,12 @@
 - Keep Tijuana’s Only Trans Shelter & Community Center Open - https://www.gofundme.com/f/keep-tijuanas-only-trans-shelter-community-center-open
 - Lacasitadeut Tijuana - https://www.instagram.com/lacasitadeut/
 
+# Mexico - Puerto Vallarta
+- Vallarta Gay+ Community Center - https://vallartagaycommunitycenter.com/
+- Gay Guide Vallarta - https://www.gayguidevallarta.com/
+- Out and About PV - https://outandaboutpv.com/
+- GayPV - https://gaypv.com/
+
 # Migration
 - Al Otro Lado - https://alotrolado.org/
 - Humanizing Deportation - https://humanizandoladeportacion.ucdavis.edu/en/
