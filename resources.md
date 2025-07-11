@@ -19,6 +19,9 @@
 # Mexico
 - Mexico Transgender Resources - https://www.transgendermap.com/guidance/resources/mexico/
 - r/TransgenderMX - https://www.reddit.com/r/TransgenderMX/
+- Reddit - How is Mexico for Trans People - https://www.reddit.com/r/asktransgender/comments/vqyc9d/how_is_mexico_for_trans_people/
+- Reddit - Trans Resources - https://www.reddit.com/r/Trans_Resources/wiki/country_specific/index/#wiki_mexico
+- Reddit - To the trans people in Mexico: anyone know where to go to start HRT? - https://www.reddit.com/r/asktransgender/comments/slf0q2/to_the_trans_people_in_mexico_anyone_know_where/
 - Border Butterflies Project - https://borderbutterfliesproject.com/
 - Unet - https://www.unetlgbt.org/
 - YAAJ - https://www.yaajmexico.org/
