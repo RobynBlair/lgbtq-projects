@@ -32,6 +32,7 @@
 - Border Butterflies Project - https://borderbutterfliesproject.com/
 - Unet - https://www.unetlgbt.org/
 - YAAJ - https://www.yaajmexico.org/
+- Mexico: A Safe and Legal Alternative for Transgender and Gender-Diverse Individuals Seeking to Live Freely - https://mexlaw.com/mexico-a-safe-and-legal-alternative-for-transgender-and-gender-diverse-individuals-seeking-to-live-freely/
 
 # Mexico - Tijuana
 - La Casita de Unión Trans - https://zetatijuana.com/tag/la-casita-de-union-trans/
@@ -43,6 +44,10 @@
 - Gay Guide Vallarta - https://www.gayguidevallarta.com/
 - Out and About PV - https://outandaboutpv.com/
 - GayPV - https://gaypv.com/
+- Finding Home (for now) in Puerto Vallarta - https://translash.org/articles/finding-home-for-now-in-puerto-vallarta/
+- Trans Identity: Puerto Vallarta Will Provide Support - https://outandaboutpv.com/trans-identity-puerto-vallarta-will-provide-support/
+- Colectivo Vallarta Trans - https://pvangels.com/charities/383/vallarta-trans-collective
+- 
 
 # Migration
 - Al Otro Lado - https://alotrolado.org/
