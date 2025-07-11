@@ -16,6 +16,12 @@
 - Identity Hormones - https://try.identityhormones.com/phoenix-az
 - Your Health and Wellness - https://yourhealthaz.com/
 
+# Mexico
+- Mexico Transgender Resources - https://www.transgendermap.com/guidance/resources/mexico/
+- r/TransgenderMX - https://www.reddit.com/r/TransgenderMX/
+- Border Butterflies Project - https://borderbutterfliesproject.com/
+- Unet - https://www.unetlgbt.org/
+- YAAJ - https://www.yaajmexico.org/
 
 # Mexico - Tijuana
 - La Casita de Unión Trans - https://zetatijuana.com/tag/la-casita-de-union-trans/
