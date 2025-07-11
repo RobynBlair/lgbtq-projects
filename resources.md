@@ -10,6 +10,7 @@
 - Black and Pink - https://www.blackandpink.org/
 - Free Mom Hugs - https://freemomhugs.org/
 - TransLash - https://translash.org/
+- Emergency Funds for Relocating and Supporting Families and Transgender Individuals - https://www.hrc.org/resources/emergency-funds-for-relocating-families
 
 # Arizona
 - Queer Center - https://www.queercenteraz.org/
