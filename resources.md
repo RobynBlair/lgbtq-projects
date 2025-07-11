@@ -25,7 +25,9 @@
 - Gay Arizona - https://gayarizona.com/phoenix/resources/
 - Arizona Survivors - LGBTQ Resources - https://arizonasurvivors.org/wp-content/uploads/LGBTQ-Arizona-Resource-Guide-002.pdf
 - One Community - https://www.onecommunity.com/
+- Trans Queer Pueblo - https://www.tqpueblo.org/
 
+  
 # Mexico
 - Mexico Transgender Resources - https://www.transgendermap.com/guidance/resources/mexico/
 - r/TransgenderMX - https://www.reddit.com/r/TransgenderMX/
