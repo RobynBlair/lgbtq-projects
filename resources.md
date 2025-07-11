@@ -10,6 +10,7 @@
 - Black and Pink - https://www.blackandpink.org/
 - Free Mom Hugs - https://freemomhugs.org/
 - TransLash - https://translash.org/
+- Trans Relocation Guide: Finding Trans Asylum and Safe Havens - https://translash.org/resources/trans-relocation-guide-finding-trans-asylum-and-safe-havens/
 - Emergency Funds for Relocating and Supporting Families and Transgender Individuals - https://www.hrc.org/resources/emergency-funds-for-relocating-families
 
 # Arizona
