@@ -55,6 +55,10 @@
 
 ## Certifications
 
+## Indoors
+- House Painting
+
+  
 ## Outdoors
 - Camping
 - Hiking
