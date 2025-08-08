@@ -42,7 +42,7 @@
 
 ## Spanish
 
-# Finance
+## Finance
 - Budgeting
 - Banking
 - Credit
