@@ -11,6 +11,7 @@
 - HTML
 - Javascript
 - WordPress
+- GoDaddy
 - Hosting
 
 # Photography
