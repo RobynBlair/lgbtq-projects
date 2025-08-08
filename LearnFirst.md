@@ -54,3 +54,9 @@
 ## Spanish
 
 ## Certifications
+
+## Outdoors
+- Camping
+- Hiking
+- Library
+- River
