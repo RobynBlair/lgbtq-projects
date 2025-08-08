@@ -59,5 +59,8 @@
 - Camping
 - Hiking
 - Library
+- Art Museum
+- Food
+- Phoenix Stuff
 - River
 - Weights
