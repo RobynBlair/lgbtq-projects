@@ -53,8 +53,6 @@
 
 ## Spanish
 
-## Certifications
-
 ## Indoors
 - House Painting
 
@@ -70,3 +68,9 @@
 - Weights
 - Car Fixup
 - Travel
+
+
+## Certifications
+- IT
+- Medical coding
+- Laser hair
