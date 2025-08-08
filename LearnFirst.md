@@ -60,3 +60,4 @@
 - Hiking
 - Library
 - River
+- Weights
