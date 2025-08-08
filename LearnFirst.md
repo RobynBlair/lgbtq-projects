@@ -29,6 +29,7 @@
 - MIDI
 - Keyboards
 - Loopers
+- Mixing
 - Studio One
 
 ## YouTube Videoes
