@@ -5,8 +5,6 @@
 - Agile
 - GitHub
 
-## Certifications
-
 ## Coding
 - HTML
 - Javascript
@@ -40,11 +38,12 @@
 - Uploading
 - Metadata
 
-## Spanish
-
 ## Finance
 - Budgeting
 - Banking
 - Credit
 - Crypto & Investing
 
+## Spanish
+
+## Certifications
