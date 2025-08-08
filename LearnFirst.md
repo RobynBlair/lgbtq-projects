@@ -5,6 +5,7 @@
 - Algebra
 - Science
 - Language
+- Critical Thinking
 
 ## Project Management
 - Agile
