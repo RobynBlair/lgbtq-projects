@@ -1,6 +1,11 @@
 
 # Things to Learn First
 
+## School Topics
+- Algebra
+- Science
+- Language
+
 ## Project Management
 - Agile
 - GitHub
