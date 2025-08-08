@@ -1,44 +1,46 @@
 
-## Things to Learn First
+# Things to Learn First
 
-# Project Management
+## Project Management
 - Agile
 - GitHub
 
-# Certifications
+## Certifications
 
-# Coding
+## Coding
 - HTML
 - Javascript
 - WordPress
 - GoDaddy
 - Hosting
 
-# Photography
+## Photography
 - DSLR manual mode
 - Shutter
 - F/Stops
 - ISO
 - Lighting
 
-# Photo Editing
+## Photo Editing
 - Loading images
 - File Management
 - Lightroom
 
-# Music
+## Music
 - Intro to Music
 - MIDI
 - Keyboards
 - Loopers
 - Studio One
 
-# YouTube Videoes
+## YouTube Videoes
 - Basic Equipment
 - Recording
 - Editing
 - Uploading
 - Metadata
+
+## Spanish
 
 # Finance
 - Budgeting
