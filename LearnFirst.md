@@ -14,6 +14,7 @@
 ## Coding
 - HTML
 - Javascript
+- Python
 - WordPress
 - GoDaddy
 - Hosting
