@@ -39,3 +39,10 @@
 - Editing
 - Uploading
 - Metadata
+
+# Finance
+- Budgeting
+- Banking
+- Credit
+- Crypto & Investing
+
