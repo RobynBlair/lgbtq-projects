@@ -11,3 +11,6 @@
 
 # Social Media
 - Setting up pseudonymous social media - https://www.youtube.com/watch?v=dgd5_2pfEd0
+
+# Email
+- The MOST private email service - https://www.youtube.com/watch?v=0_gGJtKX2Pw
