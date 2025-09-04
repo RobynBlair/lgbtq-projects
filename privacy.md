@@ -13,3 +13,6 @@
 
 # Email
 - The MOST private email service - https://www.youtube.com/watch?v=0_gGJtKX2Pw
+
+# General Privacy
+- Proton - https://proton.me/
