@@ -39,6 +39,7 @@
 - When they block the internet you'll need this - https://www.youtube.com/watch?v=wfsCVjDWdmU
 - https://meshcore.co.uk/
 - https://github.com/meshcore-dev
+- Map - https://meshcore.co.uk/map.html
 - T-Deck Plus - https://lilygo.cc/products/t-deck-plus-1
 
 # Power
