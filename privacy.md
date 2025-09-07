@@ -27,6 +27,7 @@
 - Communications Security Guides - https://madgear.shop/blogs/communications-security-guides
 
 # Meshtastic
+- MeshCore vs Meshtastic - https://www.youtube.com/watch?v=T56GTiHvZuE
 - Meshtastic For Dummies AND Heltec V3 Setup for $10 - https://www.youtube.com/watch?v=igWP0O_VuUo
 - Muzi Works - https://muzi.works/
 - Meshtastic - https://meshtastic.org/
