@@ -23,6 +23,8 @@
 - Radio for Preparedness 101: How to set up your radio - https://www.youtube.com/watch?v=vYop0g5VCeU
 - Build Your Own Repeater Sub-$20 - https://www.youtube.com/watch?v=vx5S19y6VRE
 - Radio for Preparedness 101: VHF/UHF HT Antennas - https://www.youtube.com/watch?v=6wTfq-F9trU
+- Secure Radio Communications - Offline Encryption Techniques - https://www.youtube.com/watch?v=_XeQeftuJro
+- Communications Security Guides - https://madgear.shop/blogs/communications-security-guides
 
 # Meshtastic
 - Meshtastic For Dummies AND Heltec V3 Setup for $10 - https://www.youtube.com/watch?v=igWP0O_VuUo
@@ -31,8 +33,6 @@
 - Radio Direction Finding Meshtastic | Is it easy? - https://www.youtube.com/watch?v=YG8vO1kr02k
 - Multiply Your Meshtastic Coverage with THIS! (Repeater Basics in 2025) - https://www.youtube.com/watch?v=oxrjU6tHE68
 - Advanced Meshtastic - Protecting your GPS location - https://www.youtube.com/watch?v=2Z8_-EVwizw
-- Secure Radio Communications - Offline Encryption Techniques - https://www.youtube.com/watch?v=_XeQeftuJro
-- Communications Security Guides - https://madgear.shop/blogs/communications-security-guides
 
 # Meshcore
 - When they block the internet you'll need this - https://www.youtube.com/watch?v=wfsCVjDWdmU
