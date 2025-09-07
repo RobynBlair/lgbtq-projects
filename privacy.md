@@ -36,6 +36,7 @@
 
 # Meshcore
 - When they block the internet you'll need this - https://www.youtube.com/watch?v=wfsCVjDWdmU
+- https://meshcore.co.uk/
 
 # Power
 - Build Your Own Solar Power Station - Make It Better - Make It Cheaper - https://www.youtube.com/watch?v=g_v6E-MYMdc
