@@ -29,6 +29,7 @@
 - Radio Direction Finding Meshtastic | Is it easy? - https://www.youtube.com/watch?v=YG8vO1kr02k
 - Multiply Your Meshtastic Coverage with THIS! (Repeater Basics in 2025) - https://www.youtube.com/watch?v=oxrjU6tHE68
 - Advanced Meshtastic - Protecting your GPS location - https://www.youtube.com/watch?v=2Z8_-EVwizw
+- Secure Radio Communications - Offline Encryption Techniques - https://www.youtube.com/watch?v=_XeQeftuJro
 
 # Power
 - Build Your Own Solar Power Station - Make It Better - Make It Cheaper - https://www.youtube.com/watch?v=g_v6E-MYMdc
