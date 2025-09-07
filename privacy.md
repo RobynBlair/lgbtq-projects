@@ -36,7 +36,7 @@
 - Advanced Meshtastic - Protecting your GPS location - https://www.youtube.com/watch?v=2Z8_-EVwizw
 - T-Deck Plus - https://lilygo.cc/products/t-deck-plus-meshtastic
 
-# Meshcore
+# MeshCore
 - When they block the internet you'll need this - https://www.youtube.com/watch?v=wfsCVjDWdmU
 - https://meshcore.co.uk/
 - https://github.com/meshcore-dev
