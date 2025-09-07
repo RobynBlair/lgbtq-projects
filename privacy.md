@@ -27,7 +27,6 @@
 - Communications Security Guides - https://madgear.shop/blogs/communications-security-guides
 
 # Meshtastic
-- MeshCore vs Meshtastic - https://www.youtube.com/watch?v=T56GTiHvZuE
 - Meshtastic For Dummies AND Heltec V3 Setup for $10 - https://www.youtube.com/watch?v=igWP0O_VuUo
 - Muzi Works - https://muzi.works/
 - Meshtastic - https://meshtastic.org/
@@ -37,6 +36,8 @@
 - T-Deck Plus - https://lilygo.cc/products/t-deck-plus-meshtastic
 
 # MeshCore
+- MeshCore vs Meshtastic - https://www.youtube.com/watch?v=T56GTiHvZuE
+- Meshcore vs Meshtastic - for me at least, there's a clear winner - https://www.youtube.com/watch?v=02u1JpmfL9k
 - When they block the internet you'll need this - https://www.youtube.com/watch?v=wfsCVjDWdmU
 - https://meshcore.co.uk/
 - https://github.com/meshcore-dev
