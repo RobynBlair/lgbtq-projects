@@ -27,6 +27,7 @@
 - Meshtastic For Dummies AND Heltec V3 Setup for $10 - https://www.youtube.com/watch?v=igWP0O_VuUo
 - Meshtastic - https://meshtastic.org/
 - Radio Direction Finding Meshtastic | Is it easy? - https://www.youtube.com/watch?v=YG8vO1kr02k
+- Multiply Your Meshtastic Coverage with THIS! (Repeater Basics in 2025) - https://www.youtube.com/watch?v=oxrjU6tHE68
 
 # Power
 - Build Your Own Solar Power Station - Make It Better - Make It Cheaper - https://www.youtube.com/watch?v=g_v6E-MYMdc
