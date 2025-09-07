@@ -41,6 +41,7 @@
 - https://meshcore.co.uk/
 - https://github.com/meshcore-dev
 - Map - https://meshcore.co.uk/map.html
+- MeshCore-CLI - https://github.com/meshcore-dev/meshcore-cli
 - T-Deck Plus - https://lilygo.cc/products/t-deck-plus-1
 
 # Power
