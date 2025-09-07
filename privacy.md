@@ -24,3 +24,4 @@
 - Build Your Own Repeater Sub-$20 - https://www.youtube.com/watch?v=vx5S19y6VRE
 - When they block the internet you'll need this - https://www.youtube.com/watch?v=wfsCVjDWdmU
 - Radio for Preparedness 101: VHF/UHF HT Antennas - https://www.youtube.com/watch?v=6wTfq-F9trU
+- Meshtastic For Dummies AND Heltec V3 Setup for $10 - https://www.youtube.com/watch?v=igWP0O_VuUo
