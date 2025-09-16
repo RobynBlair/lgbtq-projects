@@ -6,7 +6,7 @@
 - I Left Apple/Google & Got A Ghost Phone! (how & why explained) - https://www.youtube.com/watch?v=vkWApb9xdWc
 - Stop using Google! Set up GrapheneOS instead! (ultimate guide) - https://www.youtube.com/watch?v=X-CKcQMt7v4
 - No SIM? No Problem! - https://www.youtube.com/watch?v=RyirQOCUUK8
-- Faraday Bags.
+- Faraday Bags
 
 # Social Media
 - Setting up pseudonymous social media - https://www.youtube.com/watch?v=dgd5_2pfEd0
