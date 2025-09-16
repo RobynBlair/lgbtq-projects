@@ -29,7 +29,7 @@
 # Meshtastic
 - Meshtastic For Dummies AND Heltec V3 Setup for $10 - https://www.youtube.com/watch?v=igWP0O_VuUo
 - Necessary Drivers - https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
-- https://flasher.meshtastic.org/ - Device firmware flasher
+- Device firmware flasher - https://flasher.meshtastic.org/
 - Muzi Works - https://muzi.works/
 - Meshtastic - https://meshtastic.org/
 - Radio Direction Finding Meshtastic | Is it easy? - https://www.youtube.com/watch?v=YG8vO1kr02k
