@@ -1,5 +1,10 @@
 # LGBTQ Resources
 
+# General Travel
+- IGLTA - https://www.iglta.org/
+- TransLiving - https://transliving.co.uk/
+
+
 # US
 - Trans-Rated - https://trans-rated.com
 - Trans Lifeline - https://translifeline.org/hotline/
