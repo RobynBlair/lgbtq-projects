@@ -51,3 +51,11 @@
 # Power
 - Build Your Own Solar Power Station - Make It Better - Make It Cheaper - https://www.youtube.com/watch?v=g_v6E-MYMdc
 
+# Security
+- How to Escape Pervasive Surveillance (w/ Naomi Brockwell) - https://www.youtube.com/watch?v=D0WjIWBQEBM
+- How to Track the People Tracking You - https://www.youtube.com/watch?v=cjXp3bBd2h8
+- Counter-Surveillance Using Bluetooth - https://www.youtube.com/watch?v=gkTcLTSAsZQ
+- DangerZone: The Snowden-Approved Tool That Sanitizes Documents Through Isolation - https://www.youtube.com/watch?v=yWgwm2IqMqU
+- From Law Enforcement to Cybersecurity: Building Skills That Matter--Andrew Crotty @ BSidesCache 2025 - https://www.youtube.com/watch?v=ZByJo82GiU0
+- How to Hide in Plain Sight: Next-Level Digital Privacy | Ivan Banov at BSidesCache 2025 - https://www.youtube.com/watch?v=i0IfCfhOHN4
+
