@@ -16,6 +16,7 @@
 
 # General Privacy Providers
 - Proton - https://proton.me/
+- Mullvad - https://www.mullvad.net
 
 # Radio Communications
 - Create Your Own Comms Network - https://www.youtube.com/watch?v=JntdvDhmx8I
@@ -49,3 +50,4 @@
 
 # Power
 - Build Your Own Solar Power Station - Make It Better - Make It Cheaper - https://www.youtube.com/watch?v=g_v6E-MYMdc
+
